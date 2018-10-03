@@ -1,0 +1,4 @@
+1.save all
+2. Bash: git add .
+         git commit -m "msg"
+         git push
